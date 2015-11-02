@@ -6,5 +6,5 @@
                  [com.taoensso/timbre "4.1.4"]
                  [org.apache.uima/uimaj-core "2.8.1"]
                  [org.apache.uima/uimafit-core "2.1.0"]]
-  :profiles {:dev {:dependencies [[midje "1.6.3"]]
+  :profiles {:dev {:dependencies [[midje "1.8.1"]]
                    :plugins [[lein-midje "3.0.0"]]}})
