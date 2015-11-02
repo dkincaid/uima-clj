@@ -4,6 +4,8 @@ A Clojure library designed to ... well, that part is up to you.
 
 ![Travis CI Build Status](https://travis-ci.org/dkincaid/uima-clj.svg?branch=develop)
 
+[API Docs](http://dkincaid.github.com/uima-clj)
+
 ## Usage
 
 FIXME
